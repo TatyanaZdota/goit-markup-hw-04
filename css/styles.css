@@ -152,7 +152,7 @@ img {
   background-size: cover;
   max-width: 1600px;
   height: 600px;
-  margin: o auto;
+  margin: auto;
 }
 .hero-title {
   color: var(--background-color);
